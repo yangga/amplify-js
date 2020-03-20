@@ -1,5 +1,5 @@
 {
-  "name": "@aws-amplify/pushnotification",
+  "name": "awsamplify-pushnotification-216-androidx",
   "version": "2.1.6",
   "description": "Push notifications category of aws-amplify",
   "main": "./lib/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aws-amplify/amplify-js.git"
+    "url": "https://github.com/yangga/amplify-js.git"
   },
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
@@ -52,7 +52,7 @@
     "@react-native-community/push-notification-ios": "1.0.3"
   },
   "peerdependencies": {
-    "react-native": "^0.55.0"
+    "react-native": "^0.60.4"
   },
   "jest": {
     "transform": {
