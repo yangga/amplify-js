@@ -1,6 +1,6 @@
 {
   "name": "awsamplify-pushnotification-216-androidx",
-  "version": "2.1.6",
+  "version": "2.1.61",
   "description": "Push notifications category of aws-amplify",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
